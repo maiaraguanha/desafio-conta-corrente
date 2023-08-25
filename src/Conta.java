@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {     // Classe
+public class Conta {     // Classe
     public static void main(String[] args) {
 
         String nome = "Maiara Franciely";
