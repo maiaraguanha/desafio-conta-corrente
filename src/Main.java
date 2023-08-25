@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Main {     // Classe
     public static void main(String[] args) {
 
         String nome = "Maiara Franciely";
@@ -28,11 +28,11 @@ public class Main {
                 
                 """;
 
-        Scanner lerValor = new Scanner(System.in);
+        Scanner lerValor = new Scanner(System.in);      // Objeto da Classe
         int opcao = 0;
 
 
-        while (opcao != 4) {        // laço de repetição
+        while (opcao != 4) {      // laço de repetição
 
             System.out.println(operacoesDoCliente);
             opcao = lerValor.nextInt();
