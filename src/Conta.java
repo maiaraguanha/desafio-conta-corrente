@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Conta {     // Classe
-    public static void main(String[] args) {
+public class Conta {     // Classe Conta
+    public static void main(String[] args) {       // Método main
 
         String nome = "Maiara Franciely";
         String tipoConta = "Corrente";
