@@ -32,7 +32,7 @@ public class Main {
         int opcao = 0;
 
 
-        while (opcao != 4) {
+        while (opcao != 4) {        // laço de repetição
 
             System.out.println(operacoesDoCliente);
             opcao = lerValor.nextInt();
